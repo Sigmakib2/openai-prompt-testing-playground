@@ -8,3 +8,5 @@ An interactive web-based tool to experiment with and test prompts for OpenAI's G
 - **Customizable Settings**: Configure model parameters like temperature, max tokens, and top_p directly from the UI.
 - **Local Storage**: Automatically save and load previous prompt settings for convenience.
 - **Fullscreen Mode**: Toggle fullscreen for a focused testing experience.
+
+Live link: https://sigmakib2.github.io/openai-prompt-testing-playground/
